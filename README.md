@@ -1,1 +1,0 @@
-# Grocery-Inventory-Management-c
